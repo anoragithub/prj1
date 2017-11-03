@@ -7,9 +7,7 @@ Added two lines in the branch code and am going to commit it back to the branch.
 
 Second set of changes in the branch..
 
-<<<<<<< .merge_file_a69144
 Updating file fro master .. after editting the branch
-=======
 
 editting file from branch2
->>>>>>> .merge_file_a78056
+
