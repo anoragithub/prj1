@@ -6,3 +6,5 @@ I made a branch..
 Added two lines in the branch code and am going to commit it back to the branch. 
 
 Second set of changes in the branch..
+
+Updating file fro master .. after editting the branch
